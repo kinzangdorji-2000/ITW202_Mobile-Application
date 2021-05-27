@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TODO_22</string>
+    <string name="Instructions">Enter a book name to find out who wrote the book.</string>
+    <string name="Button_Text">Search Books</string>
+    <string name="Input_Hint">Book Title</string>
+    <string name="no_results">"No Results Found"</string>
+    <string name="loading">"Loading"</string>
+    <string name="no_search_term">"No Search Term"</string>
+    <string name="no_network">"No Network"</string>
+
+</resources>
